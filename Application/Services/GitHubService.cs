@@ -15,7 +15,7 @@ namespace Application
 
     public class GitHubService : IGitHubService
     {
-        private const string token = "0c57cfe424b4f28ce8dbe200d1786cf201d0e59e";
+        private const string token = //Insert OAuth token here;
         private GitHubClient client;
         //private IConfigurationService configuration;
 
