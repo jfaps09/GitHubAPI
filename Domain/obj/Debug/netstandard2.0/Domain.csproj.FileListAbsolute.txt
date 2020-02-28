@@ -1,0 +1,16 @@
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\Francisco\Desktop\testCoise\Application\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\Francisco\Desktop\testCoise\GitHubAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
